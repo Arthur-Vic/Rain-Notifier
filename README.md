@@ -2,6 +2,8 @@
 
 This Python script checks the weather forecast for a specified location using the OpenWeatherMap API and sends an email alert via Gmail if rain is expected today.
 
+![Weather Alert](notification.jpeg)
+
 ## API Integration Practice
 
 Here, you can see an example of how to integrate a RESTful API into your Python projects. We use the OpenWeatherMap RESTful API to retrieve weather data for a specific location, demonstrating how to make RESTful HTTP requests, handle JSON responses, and extract useful information from an external API.
